@@ -1,2 +1,2 @@
 # colt-web-dev
-Code for Colt's Web Deb Bootcamp on Udemy
+Code for Colt's Web Dev Bootcamp on Udemy
